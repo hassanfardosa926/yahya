@@ -1,14 +1,53 @@
 .laila{
     display: flex;
-    text 
-    
+    justify-content: space-evenly;
+   
 }
 body{
     background-color: rgb(141, 39, 39);
 }
 .tata{
    display: flex;
+   
 }
+.dosa{
+    float: left;
+ margin-right: 250px;
+ padding-left: 50px;
+}
+.sasa{
+    display: flex;
+    justify-content: space-evenly;
+}
+h2{
+    color: white;
+}
+p{
+    color: white;
+}
+h4{
+    color: white;
+}
+h1{
+    color: white;
+}
+.dede{
+    color: red;
+}
+h3{
+    color: white;
+}
+h5{
+    color: white;
+    background-color: red;
+}
+.vivo{
+    color: red;
+}
+.coco{
+    color: red;
+}
+
 
 
 
